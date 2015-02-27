@@ -1,4 +1,4 @@
-﻿Recipe 7zip {
+﻿formula 7zip {
     version "9.38"
     url "http://www.7-zip.org/a/7z938-x64.msi"
 
